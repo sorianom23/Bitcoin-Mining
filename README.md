@@ -3,7 +3,7 @@
 ##### Date: Marth 2022
 #### Created by: Maria Soriano 👋🏼
 
-![Some graphs about Bitcoin mining locations](/Users/mariasoriano/Desktop/Project/Bitcoin Minning/caps/screenshot.png)
+![Screenshot](screenshot.png)
 
 
 👉🏼 Check it out here 👈🏼
