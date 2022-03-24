@@ -22,8 +22,8 @@ I try to answer the following questions:
 * Heroku (for deploying the App)
 
 ## Datasets
-Data about hashrate (monthly average) by country can be found here: https://ccaf.io/cbeci/index
-Data about China's hashrate (monthly average) by province can be found here: https://ccaf.io/cbeci/index
+* Data about hashrate (monthly average) by country can be found here: https://ccaf.io/cbeci/index
+* Data about China's hashrate (monthly average) by province can be found here: https://ccaf.io/cbeci/index
 
 
 ![Screenshot](screenshot.png)
