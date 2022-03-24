@@ -3,8 +3,6 @@
 ##### Date: Marth 2022
 #### Created by: Maria Soriano 👋🏼
 
-![Screenshot](screenshot.png)
-
 
 👉🏼 [Check it out here](https://miningviz.herokuapp.com) 👈🏼
 
@@ -27,3 +25,6 @@ I try to answer the following questions:
 Data about hashrate (monthly average) by country can be found here: https://ccaf.io/cbeci/index
 Data about China's hashrate (monthly average) by province can be found here: https://ccaf.io/cbeci/index
 
+
+![Screenshot](screenshot.png)
+Example of visualization
