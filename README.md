@@ -6,7 +6,7 @@
 ![Screenshot](screenshot.png)
 
 
-👉🏼 Check it out here 👈🏼
+👉🏼 [Check it out here](https://miningviz.herokuapp.com) 👈🏼
 
 
 ## About
