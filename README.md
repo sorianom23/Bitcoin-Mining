@@ -1,6 +1,6 @@
 # Bitcoin Mining locations 2019 - 2021 📊
 #### Data Visualization Project
-##### Date: Marth 2022
+##### Date: March 2022
 #### Created by: Maria Soriano 👋🏼
 
 
